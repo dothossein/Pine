@@ -2,30 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dothossein.github.io/pine/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <lastmod>2024-12-03</lastmod>
     </url>
     <url>
          <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/1.indicator/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <lastmod>2024-12-03</lastmod>
     </url>
     <url>
          <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/2.plot/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <lastmod>2024-12-03</lastmod>
     </url>
     <url>
          <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/3.variable/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <lastmod>2024-12-03</lastmod>
     </url>
     <url>
-         <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/4.%20for%20and%20while/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/4.if%20for%20while/</loc>
+         <lastmod>2024-12-03</lastmod>
     </url>
     <url>
          <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/5.time/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <lastmod>2024-12-03</lastmod>
     </url>
     <url>
          <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/6.functions/</loc>
-         <lastmod>2024-12-02</lastmod>
+         <lastmod>2024-12-03</lastmod>
+    </url>
+    <url>
+         <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/7.plotshape/</loc>
+         <lastmod>2024-12-03</lastmod>
+    </url>
+    <url>
+         <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/8.request.security/</loc>
+         <lastmod>2024-12-03</lastmod>
+    </url>
+    <url>
+         <loc>https://dothossein.github.io/pine/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%87%D8%A7/9.ta/</loc>
+         <lastmod>2024-12-03</lastmod>
     </url>
 </urlset>
